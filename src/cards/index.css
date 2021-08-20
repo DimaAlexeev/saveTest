@@ -1,0 +1,14 @@
+.Cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 900px;
+    margin-top: 30px;
+}
+.Cards-block{
+     
+    width: 200px;
+}
+.Cards-block img{
+    width: 100%;
+}
